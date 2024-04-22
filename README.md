@@ -1,3 +1,4 @@
 # Flappy_Bird
-Flappy Bird Project
+Flappy Bird Project - Reinforcement Learning
+
 Made in 2020
